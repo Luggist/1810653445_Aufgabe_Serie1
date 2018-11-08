@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a094ee7-c377-4206-a293-31cd5ec20d38" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Package3/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Package3/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Package2/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Package2/src/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Package3/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Package3/src/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Package3/main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +26,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Package2/src/main.java">
+      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Package2/src/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="26" />
@@ -32,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Package3/src/main.java">
+      <file leaf-file-name="Test3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Package3/src/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="19" column="106" lean-forward="true" selection-start-line="19" selection-start-column="106" selection-end-line="19" selection-end-column="106" />
             </state>
           </provider>
         </entry>
@@ -50,6 +53,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>yxs</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -59,6 +67,7 @@
         <option value="$PROJECT_DIR$/Package2/src/main.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/Package3/src/main.java" />
+        <option value="$PROJECT_DIR$/Package3/src/Test3.java" />
       </list>
     </option>
   </component>
@@ -72,9 +81,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="-5" />
+    <option name="width" value="1932" />
+    <option name="height" value="635" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -100,7 +109,19 @@
             <path>
               <item name="1810653445_Aufgaben_Serie1" type="b2602c69:ProjectViewProjectNode" />
               <item name="1810653445_Aufgaben_Serie1" type="462c0819:PsiDirectoryNode" />
+              <item name="Package2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1810653445_Aufgaben_Serie1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1810653445_Aufgaben_Serie1" type="462c0819:PsiDirectoryNode" />
               <item name="Package3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1810653445_Aufgaben_Serie1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1810653445_Aufgaben_Serie1" type="462c0819:PsiDirectoryNode" />
+              <item name="Package3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,18 +151,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="1810653445_Aufgaben_Serie1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test3" />
+      <module name="Package3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="Package3" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -184,11 +205,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.main" />
+      <item itemvalue="Application.Test3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -204,19 +225,20 @@
       <option name="presentableId" value="Default" />
       <updated>1541663659190</updated>
       <workItem from="1541663664976" duration="1251000" />
-      <workItem from="1541665745810" duration="2536000" />
+      <workItem from="1541665745810" duration="4110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3787000" />
+    <option name="totallyTimeSpent" value="5361000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-5" y="0" width="1932" height="635" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32893288" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32570806" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -224,11 +246,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36853686" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30363035" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37022132" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.555332" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38730854" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18910256" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -249,6 +271,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -289,7 +316,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Package2/src/main.java">
+    <entry file="file://$PROJECT_DIR$/Package2/src/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="26" />
@@ -299,10 +326,10 @@
     <entry file="file://$PROJECT_DIR$/Package3/Package3.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Package3/src/main.java">
+    <entry file="file://$PROJECT_DIR$/Package3/src/Test3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="19" column="106" lean-forward="true" selection-start-line="19" selection-start-column="106" selection-end-line="19" selection-end-column="106" />
         </state>
       </provider>
     </entry>
